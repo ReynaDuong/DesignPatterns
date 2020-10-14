@@ -9,12 +9,12 @@
         <module name="Structural Patterns" />
         <module name="Decorator" />
         <module name="Creational Patterns" />
+        <module name="Strategy" />
         <module name="Observer" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Decorator" target="1.5" />
-      <module name="Strategy" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

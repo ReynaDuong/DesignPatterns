@@ -14,7 +14,6 @@
     <modules>
         <module>Observer</module>
         <module>Strategy</module>
-        <module>Strategy</module>
     </modules>
 
 
