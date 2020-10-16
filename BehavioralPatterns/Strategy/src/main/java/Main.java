@@ -5,7 +5,7 @@ import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
-        List<Duck> ducks = new LinkedList<Duck>();
+        List<Duck> ducks = new LinkedList<>();
 
         ducks.add(new MallardDuck());
         ducks.add(new RubberDuck());
