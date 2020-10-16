@@ -1,14 +1,14 @@
 # DesignPatterns
 Design Patterns Implementation
 
-Creational Patterns
+### Creational Patterns
 * Factory Method
 * Abstract Factory
 * Builder
 * Singleton
 * Prototype
 
-Structural Patterns
+### Structural Patterns
 * Adaptor
 * Bridge
 * Composite
@@ -17,7 +17,7 @@ Structural Patterns
 * Proxy
 * Decorator
 
-Behavioral Patterns
+### Behavioral Patterns
 * Chain of Responsibilities
 * Command
 * Interpreter
