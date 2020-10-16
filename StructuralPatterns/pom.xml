@@ -9,7 +9,10 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>Structural Patterns</artifactId>
+    <artifactId>StructuralPatterns</artifactId>
 
-
+    <packaging>pom</packaging>
+    <modules>
+        <module>Decorator</module>
+    </modules>
 </project>
