@@ -12,6 +12,7 @@
         <module>BehavioralPatterns</module>
         <module>CreationalPatterns</module>
         <module>StructuralPatterns</module>
+        <module>CreationalPatterns/AbstractFactory</module>
     </modules>
 
     <build>
